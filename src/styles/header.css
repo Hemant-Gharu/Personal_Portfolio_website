@@ -1,0 +1,22 @@
+.navbar{
+  background-color: black;
+  color: white;
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  width: 100%;
+  padding: 1rem 0;
+  border: 1px solid white;
+  display: flex;
+  justify-content: space-around;
+}
+.nav-links ul{
+  /* border: 1px solid red; */
+  list-style: none;
+  display: flex;
+
+}
+.nav-links ul li{
+  margin: 0 2rem;
+}
