@@ -11,12 +11,18 @@
   display: flex;
   justify-content: space-around;
 }
-.nav-links ul{
+.logo{
   /* border: 1px solid red; */
+  width: 50%;
+}
+.navLinks ul{
+  /* border: 1px solid red; */
+  width: 50%;
   list-style: none;
   display: flex;
 
 }
-.nav-links ul li{
+.navLinks ul li{
   margin: 0 2rem;
+  cursor: pointer;
 }

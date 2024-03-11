@@ -4,10 +4,7 @@
 }
 
 #root {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
-  text-align: center;
-  background-color: black;
-  height: 80vh;
+  background-color: blue;
+  color: white;
+  height: 140vh;
 }
